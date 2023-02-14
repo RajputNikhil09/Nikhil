@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    list-style:none;
+}
+body{
+    width:px;
+    font-family: 'Rubik', sans-serif;
+    background-image:url('./nik.png');
+    background-image: cover;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-weight:bold;
+}
+
+input{
+    margin:10px;
+}
+#name{
+    margin: left 10px;;
+}
+#Branch{
+    margin-left:20px;
+}
